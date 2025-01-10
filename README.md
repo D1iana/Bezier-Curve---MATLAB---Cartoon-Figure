@@ -1,4 +1,6 @@
 Cartoon Figure with Bézier Curves - MATLAB Project
+
+
 This project recreates the cartoon character Stitch using cubic Bezier curves in MATLAB. It blends computational geometry with creative design, highlighting the power of mathematical modeling in art.
 
 Key Features
